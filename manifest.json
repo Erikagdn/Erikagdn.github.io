@@ -1,0 +1,17 @@
+{
+  "name": "Erika Gaudan",
+  "short_name": "Erika Gaudan",
+  "description": "Erika Gaudan — Virtual Assistant with a background in Accountancy and hands-on experience supporting a remote finance team in Australia.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF5F2",
+  "theme_color": "#0D1E3A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/img/profile_photo.jpeg",
+      "sizes": "400x400",
+      "type": "image/jpeg"
+    }
+  ]
+}
